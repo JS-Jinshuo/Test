@@ -12,3 +12,9 @@
   * [李宏毅《深度学习人类语言处理》](https://www.bilibili.com/video/BV1QE411p7z3/)
   * ★★★★★推荐，深度学习时代语音技术很好的入门课
 ---
+## 2.基础一：Transformer模型
+* 以下有一些Transformer的参考文献，如果原论文难理解，可以阅读以下文献，比较通俗，容易学习
+  * [Transformer模型详解（图解最完整版）](https://zhuanlan.zhihu.com/p/338817680)
+  * [Transformer视频课](https://www.youtube.com/watch?v=ugWDIIOHtPA&list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4&index=62)
+  * [Transformer模型总结](https://zhuanlan.zhihu.com/p/473236819)
+  * Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[J]. Advances in neural information processing systems, 2017, 30.
