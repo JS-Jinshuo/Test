@@ -11,6 +11,9 @@
 * 这是讲深度学习NLP和语音相关深度学习技术的，有一半的内容是讲语音的，但是需要一定基础，了解基本的模型结构
   * [李宏毅《深度学习人类语言处理》](https://www.bilibili.com/video/BV1QE411p7z3/)
   * ★★★★★推荐，深度学习时代语音技术很好的入门课
+* 端到端语音翻译综述，Recent Advances in Direct Speech-to-text Translation
+  * [https://arxiv.org/abs/2306.11646](https://arxiv.org/abs/2306.11646)
+
 ---
 ## 2.基础一：Transformer模型
 * 以下有一些Transformer的参考文献，如果原论文难理解，可以阅读以下文献，比较通俗，容易学习
