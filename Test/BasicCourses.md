@@ -42,3 +42,55 @@
     * [2020 年 3月 新番 李宏毅 人类语言处理 独家笔记 Alignment Train - 8](https://zhuanlan.zhihu.com/p/128123600)
 ---
 
+## 课程四：Language Modeling
+* **参考文献：**
+   * [1] [Speech Recognition- Language Modeling哔哩哔哩bilibili](https://www.bilibili.com/video/BV1QE411p7z3/?p=8&spm_id_from=333.880.my_history.page.click&vd_source=c06477a064079dc916ffc3a3b940bb0f)
+   * [2] [2020 年 3月 新番 李宏毅 人类语言处理 独家笔记 Language Model - 9 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/128697931)
+---
+
+## 课程五：Voice Conversion
+* **参考文献：**
+   * [1] [Voice Conversion (1/2)哔哩哔哩bilibili](https://www.bilibili.com/video/BV1QE411p7z3/?p=9&vd_source=c06477a064079dc916ffc3a3b940bb0f)
+   * [2] [2020 年 3月 新番 李宏毅 人类语言处理 独家笔记 Voice Conversion-10](https://zhuanlan.zhihu.com/p/129067006)
+   * [3] [Voice Conversion (2/2)哔哩哔哩bilibili](https://www.bilibili.com/video/BV1QE411p7z3/?p=10&vd_source=c06477a064079dc916ffc3a3b940bb0f)
+   * [4] [2020 年 3月 新番 李宏毅 人类语言处理 独家笔记 StarGAN in VC-11](https://zhuanlan.zhihu.com/p/129345757)
+   * [5] [台大教授 李宏毅 Flow-based Generative Model哔哩哔哩bilibili](https://www.bilibili.com/video/BV1C4411A7o3/?from=search&seid=7904061540301133082&vd_source=c06477a064079dc916ffc3a3b940bb0f)
+---
+
+## 课程六:Speech Separation
+* **参考文献：**
+   * [1] [Speech Separation (1/2) - Deep Clustering, PIT哔哩哔哩bilibili](https://www.bilibili.com/video/BV1QE411p7z3/?p=11&vd_source=c06477a064079dc916ffc3a3b940bb0f)
+   * [2] [2020 年 3月 新番 李宏毅 人类语言处理 独家笔记 Speech Seperate-12](https://zhuanlan.zhihu.com/p/129883837)
+   * [3] [Speech Separation (2/2) - TasNet哔哩哔哩bilibil](https://www.bilibili.com/video/BV1QE411p7z3/?p=12&vd_source=c06477a064079dc916ffc3a3b940bb0f)
+   * [4] [2020 年 3月 新番 李宏毅 人类语言处理 独家笔记 TasNet-13](https://zhuanlan.zhihu.com/p/130470329)
+---
+
+## 课程七:Speech Synthesis
+* **参考文献：**
+   * [1][Speech Synthesis（1/2）- Tacotron哔哩哔哩bilibili](https://www.bilibili.com/video/BV1QE411p7z3/?p=13&vd_source=c06477a064079dc916ffc3a3b940bb0f)
+   * [2][2020 年 3月 新番 李宏毅 人类语言处理 独家笔记 TTS - 14](https://zhuanlan.zhihu.com/p/130999249)
+   * [3][Speech Synthesis (2/2) - More than Tacotron哔哩哔哩bilibili](https://www.bilibili.com/video/BV1QE411p7z3/?p=14&vd_source=c06477a064079dc916ffc3a3b940bb0f)
+   * [4][2020 年 3月 新番 李宏毅 人类语言处理 独家笔记 Beyond Tacotron - 15](https://zhuanlan.zhihu.com/p/133854797)
+---
+
+## 课程八:Speaker Verification
+* **参考文献：**
+  * [1][Speaker Verification哔哩哔哩bilibili](https://www.bilibili.com/video/BV1QE411p7z3/?p=15&vd_source=c06477a064079dc916ffc3a3b940bb0f)
+  * [2][2020 年 3月 新番 李宏毅 人类语言处理 独家笔记 声纹识别 - 16](https://zhuanlan.zhihu.com/p/134671051)
+  * [3][Meta Learning – Metric-based (1/3)](https://www.youtube.com/watch?v=yyKaACh_j3M)
+  * [4][如何理解等错误率(EER, Equal Error Rate)？请不要只给定义](https://www.zhihu.com/question/37436914)
+---
+
+## 课程九:Vocoder
+* **参考文献：**
+  * [1][Vocoder (由助教許博竣同學講授)哔哩哔哩bilibili](https://www.bilibili.com/video/BV1QE411p7z3/?p=16&vd_source=c06477a064079dc916ffc3a3b940bb0f)
+  * [2] Oord A, Dieleman S, Zen H, et al. Wavenet: A generative model for raw audio[J]. arXiv preprint arXiv:1609.03499,2016.
+  * [3] https://deepmind.google/discover/blog/wavenet-a-generative-model-for-raw-audio/
+  * [4] Jin Z, Finkelstein A, Mysore G J, et al. FFTNet: A real-time speaker-dependent neural vocoder[C]//2018 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, 2018: 2251-2255.
+  * [5] Kalchbrenner N, Elsen E, Simonyan K, et al. Efficient neural audio synthesis[C]//International Conference on Machine Learning. PMLR, 2018: 2410-2419
+  * [6] Prenger R, Valle R, Catanzaro B. Waveglow: A flow-based generative network for speech synthesis[C]//ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019: 3617-3621.
+  * [7] [Flow-based Deep Generative Models | Lil'Log (lilianweng.github.io)](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
+  * [8][细水长flow之NICE：流模型的基本概念与实现 - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/5776)
+---
+
+
