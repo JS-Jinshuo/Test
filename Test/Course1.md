@@ -18,3 +18,17 @@
 **大家用的（大趋势）**
 
 ![图片1](../image/img1.png)
+最多的是grapheme，这种非常简单直接。
+
+## 二、模型（Speech Recognition）功能
+1. 输出 word embeddings
+2. 模型中加入 Translation，输出识别后翻译的结果
+3. 模型中加入 Intent classification，输出语音的分类，理解对方意图
+4. 模型中加入 Slot filling，即输出一段语句的关键词，如时间、地点等
+---
+
+## 三、声音特征 Acoustic Feature
+通常以 25ms 为窗口长度，将声音讯号转为 一个向量（**frame**，也即帧），每次窗口移动 10ms，也就
+是说 1s →100 frames
+![图片2]（）
+
